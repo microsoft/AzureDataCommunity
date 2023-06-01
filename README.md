@@ -49,7 +49,7 @@ Here are some useful links for data enthusiasts:
 - [Data Science Central](https://www.datasciencecentral.com/): A hub for news, resources and events related to data science.
 - [Data Elixir](https://dataelixir.com/): A weekly newsletter with curated content on data science and analytics.
 
-We hope you enjoy our home page and find it informative and inviting. If you are interested in joining our group, please fill out this [form](https://forms.gle/xyz) and we will get back to you soon. We look forward to meeting you at our next meeting! 😊
+We hope you find what you need here and join us soon. If you are interested in joining our group, please fill out this [form](https://forms.gle/xyz) and we will get back to you soon. We look forward to meeting you at our next meeting! 😊
 
 ## Contributing
 
