@@ -5,17 +5,25 @@ Here you'll find areas for code samples, lists, slides and other content.
 
 (Describe Code Samples)
 
+[You can find our code samples here.](https://github.com/microsoft/AzureDataCommunity/tree/main/Resources/Code)
+
 ## Lists
 
 (Describe Lists)
+
+[You can find our lists here.](https://github.com/microsoft/AzureDataCommunity/tree/main/Resources/Lists)
 
 ## Slides
 
 (Describe Slides area - NOTE: it's best not to post large binary files in Github, but instead list pointers to online storage such as OneDrive)
 
+[You can find our slide links here.](https://github.com/microsoft/AzureDataCommunity/tree/main/Resources/Slides)
+
 ## Other Content
 
 (Describe Other Content)
+
+[You can find our other content here.](https://github.com/microsoft/AzureDataCommunity/tree/main/Resources/Content)
 
 ## Contributing
 
