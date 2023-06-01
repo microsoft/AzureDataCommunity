@@ -5,6 +5,8 @@ We are a community of data enthusiasts who meet regularly to share our knowledge
 
 The Data User Group was founded in 2022 by a group of friends who wanted to create a space for data lovers to network, collaborate and have fun. Since then, we have grown to over 100 members from different backgrounds and industries. Our mission is to promote data literacy, foster innovation and support each other in our data journeys.
 
+[You can find a list of our resources here.](https://github.com/microsoft/AzureDataCommunity/tree/main/Resources)
+
 ## Location
 
 We meet every second Wednesday of the month at 6:00 pm at the Data Hub, a co-working space located at 123 Main Street, Downtown. The Data Hub provides us with a comfortable and well-equipped venue for our meetings, as well as access to their data resources and tools.
