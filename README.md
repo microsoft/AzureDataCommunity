@@ -1,3 +1,5 @@
+<img src="https://github.com/microsoft/AzureDataCommunity/blob/main/Resources/Content/banner.png" width=800 alt="User Group Name community group name overlay">
+
 # Welcome to the (Name) Data User Group!
 We are a community of data enthusiasts who meet regularly to share our knowledge, skills and insights on various topics related to data science, analytics, visualization and more. Whether you are a beginner or an expert, a student or a professional, you are welcome to join us and learn from each other.
 
